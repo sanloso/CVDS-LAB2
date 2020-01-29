@@ -1,6 +1,7 @@
 package edu.eci.cvds.patterns.shapes;
 
 public class ShapeMain {
+    private static ShapeFactory shapeFactory;
     public static void main(String[] args) {
       shapeFactory= null;
         if (args == null || args.length != 1) {
