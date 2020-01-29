@@ -1,8 +1,8 @@
-### CVDS-LAB2
+# CVDS-LAB2
 
 ## Shapes
 
-# ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
 * **sin parametros:** 
 >Parameter of type RegularShapeType is required.
